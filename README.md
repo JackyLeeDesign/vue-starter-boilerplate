@@ -5,13 +5,6 @@ Welcome to the Vue Starter Boilerplate! This boilerplate is designed to give dev
 ## 🔍 Overview
 
 This boilerplate provides a ready-to-use Vue setup. It's optimized for both development and production builds.
-# 🚀 Vue Starter Boilerplate
-
-Welcome to the Vue Starter Boilerplate! This boilerplate is designed to give developers a smooth start to their Vue projects, complete with essential configurations and tools.
-
-## 🔍 Overview
-
-This boilerplate provides a ready-to-use Vue setup. It's optimized for both development and production builds.
 ## 🚀 Getting Started
 
 To begin with this boilerplate, simply clone it and install the required dependencies.
